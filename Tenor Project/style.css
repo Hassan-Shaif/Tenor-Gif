@@ -1,0 +1,26 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+
+}
+
+body{
+    width: 90%;
+    margin: auto !important;
+}
+
+#main-content {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+#searchBtn{
+    width:300px;
+    margin: 0 100px;
+}
+#randomSearch{
+    width:450px;
+    margin:0 0 0 110px;
+}
